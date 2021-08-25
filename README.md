@@ -10,5 +10,8 @@ Algos Implemented:<br/>
 
 Check Out the website at :- http://127.0.0.1:5500/Sorting-Visualization/index.html
 
+Some of the ScreenShots :
+
+
 
 
