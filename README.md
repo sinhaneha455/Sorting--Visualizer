@@ -2,29 +2,29 @@
 
 <h3>Hello What's Up?Let me walk you through my very first project 😁</h3>
 
-Description:-
+<b>Description:-</b><br/>
 Since I am very facinated with Data Strcutures and Algorithm . So I have implemented this project to visualize all the sorting Algorithms.This project is built using HTML, CSS, and JS. Sorting visualizer is a very simple UI and it allows the users to select the sort algorithm, select the array size, and speed of the visualization.
 
-Motive to make this project ??
+<b>Motive to make this project ??</b><br/>
 The main reason I choose this project to become more familiar with the javascript concepts, and CSS styling. So, I didn't use any frameworks other than HTML, CSS, and JS.
 
-Output after successful completion of this project??
+<b>Output after successful completion of this project??</b><br/>
 Now I'm familiar with the JS concepts, can confidently solve coding problems, write stylings in CSS.
 
 
-Tech Stack -<br/>
-#HTML<br/>
-#CSS<br/>
-#Javascript<br/>
-#BootStrap
+<b>Tech Stack -<b><br/>
+1.HTML<br/>
+2.CSS<br/>
+3.Javascript<br/>
+4.BootStrap
 
 
 Algos Implemented:<br/>
-#Merge Sort<br/>
-#Selection Sort<br/>
-#Bubble Sort<br/>
-#Quick Sort<br/>
-#Insertion Sort
+1.Merge Sort<br/>
+2.Selection Sort<br/>
+3.Bubble Sort<br/>
+4.Quick Sort<br/>
+5.Insertion Sort
 
 
 
