@@ -1,6 +1,6 @@
-#Sorting Visuzalizer
+<h1>Sorting Visuzalizer</h1>
 
-###Hello What's Up?Let me walk you through my very first project 😁
+<h3>Hello What's Up?Let me walk you through my very first project 😁</h3>
 
 Description:-
 Since I am very facinated with Data Strcutures and Algorithm . So I have implemented this project to visualize all the sorting Algorithms.This project is built using HTML, CSS, and JS. Sorting visualizer is a very simple UI and it allows the users to select the sort algorithm, select the array size, and speed of the visualization.
