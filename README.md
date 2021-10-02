@@ -1,5 +1,23 @@
-# Sorting--Visualizer
-As I am very fascinated with data Structures and Algorithm So I have implemented this project called as Sorting Visuzalier
+#Sorting Visuzalizer
+
+###Hello What's Up?Let me walk you through my very first project 😁
+
+Description:-
+Since I am very facinated with Data Strcutures and Algorithm . So I have implemented this project to visualize all the sorting Algorithms.This project is built using HTML, CSS, and JS. Sorting visualizer is a very simple UI and it allows the users to select the sort algorithm, select the array size, and speed of the visualization.
+
+Motive to make this project ??
+The main reason I choose this project to become more familiar with the javascript concepts, and CSS styling. So, I didn't use any frameworks other than HTML, CSS, and JS.
+
+Output after successful completion of this project??
+Now I'm familiar with the JS concepts, can confidently solve coding problems, write stylings in CSS.
+
+
+Tech Stack -<br/>
+#HTML<br/>
+#CSS<br/>
+#Javascript<br/>
+#BootStrap
+
 
 Algos Implemented:<br/>
 #Merge Sort<br/>
@@ -8,7 +26,8 @@ Algos Implemented:<br/>
 #Quick Sort<br/>
 #Insertion Sort
 
-Check Out the website at :- http://127.0.0.1:5500/Sorting-Visualization/index.html
+
+
 
 Some of the ScreenShots :
 ![img1](https://user-images.githubusercontent.com/68558968/130804195-fe83d224-8c55-4e83-a206-de9d053d3728.png)
